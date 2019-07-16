@@ -2,12 +2,12 @@
 Pytorch implementation of [R-Transformer](https://arxiv.org/abs/1907.05572).  Some parts of the code are adapted from the implementation of [TCN](https://github.com/locuslab/TCN) and [Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html). 
 
 
-For more details about R-Transformer, Please see our [paper](https://arxiv.org/abs/1907.05572).  If you find this work useful and use it on your research, please cite our paper.
+For more details about R-Transformer, Please read our [paper](https://arxiv.org/abs/1907.05572).  If you find this work useful and use it on your research, please cite our paper.
 
 ```
 @article{wang2019rtransf,
   title={R-Transformer: Recurrent Neural Network Enhanced Transformer},
-  author={Wang, Zhiwei and Mao, Yao and Liu, Zitao and Tang, Jiliang},
+  author={Wang, Zhiwei and Ma, Yao and Liu, Zitao and Tang, Jiliang},
   journal={arXiv preprint arXiv:1907.05572},
   year={2019}
 }
